@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "name": "Contratar Programador",
+      "budget": "1000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "fazer novos icones",
+      "budget": "1500",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Evento de Marketing",
+      "budget": "4000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 3000,
+      "services": [
+        {
+          "name": "Planejamento do programa/agenda",
+          "cost": "3000",
+          "description": "Descreve a sequência lógica e a alocação de tempo para cada componente do projeto, permitindo uma visualização clara do que será feito, quando e por quem.",
+          "id": "4654ae4c-7c86-4b42-a7db-64aca61cac3d"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

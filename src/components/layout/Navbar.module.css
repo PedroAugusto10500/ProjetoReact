@@ -1,0 +1,45 @@
+.navbar {
+  position: fixed; 
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.0);
+  color: white;
+  padding: 5px 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  animation: fadeNavbar 0.3s; 
+  transition: top 0.3s; 
+}
+
+.logo {
+  width: 100px;
+}
+
+.navLinks {
+  display: flex;
+  gap: 20px;
+}
+
+.navLink {
+  color: white;
+  font-size: 16px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.2s;
+  margin-right: 15px;
+}
+
+.navLink:hover {
+  color: orangered;
+}
+
+@keyframes fadeNavbar {
+  from {
+    background-color: rgba(0, 0, 0, 0);
+  }
+  to {
+    background-color: rgba(0, 0, 0, 1);
+  }
+}

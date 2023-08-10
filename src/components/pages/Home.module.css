@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  
+}
+
+h1 {
+  font-size: 2rem;
+  animation: fadeIn 1.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.imageContainer {
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+
+.cellImage {
+  width: 500px;
+  height: auto;
+}
+
+.moneyImage {
+  width: 100px;
+  height: auto;
+}
+
+.cellImage {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+
+.projectBox {
+  color: orangered;
+}
