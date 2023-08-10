@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ### `npm run backend`
 
-Start the backend of the project.
+Start the backend of the project.\
 json-server --watch db.json --port 5000
 
 ### `npm test`
