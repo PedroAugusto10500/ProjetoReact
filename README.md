@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `npm run backend`
+
+Start the backend of the project.
+json-server --watch db.json --port 5000
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
@@ -68,3 +73,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Layout
+
+ ![Tela inicial](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/HOMEF.png)
+ 
+ ![Criar Projeto](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/CRIARF.png)
+
+ ![Loading](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/LOADINGF.png)
+
+ ![Projetos Criados](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/CRIADOSF.png)
+
+ ![Servicos](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/SERVICOSF.png)
+
+ ![Servico ADD](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/ADDSERVIF.png)
+
+ ![Servico ADDS](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/SERVIADDF.png)
+
+ ![Contato](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/CONTATOSFpng.png)
+
+
+
