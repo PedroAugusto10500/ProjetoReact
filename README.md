@@ -81,15 +81,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  
  ![Criar Projeto](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/CRIARF.png)
 
- ![Loading](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/LOADINGF.png)
-
- ![Projetos Criados](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/CRIADOSF.png)
-
  ![Servicos](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/SERVICOSF.png)
 
  ![Servico ADD](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/ADDSERVIF.png)
 
  ![Servico ADDS](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/SERVIADDFN.png)
+ 
+ ![Loading](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/LOADINGF.png)
+
+ ![Projetos Criados](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/CRIADOSF.png)
 
  ![Contato](https://github.com/PedroAugusto10500/ProjetoReact/blob/main/src/img/CONTATOSFpng.png)
 
